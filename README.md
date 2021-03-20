@@ -11,7 +11,7 @@ An indie Blood Bank managing sytem built in HTML, Bootstrap, Javascript and serv
 
 2- Create a new database by the name "bloodbank"
 
-3- import the .sql file placed in SQL directory to create tables and populate them.
+3- import the .sql file placed in Database directory to create tables and populate them.
 
 ### Run
 1- Launch XAMPP
